@@ -56,6 +56,21 @@ module.exports = {
         100: '#E2E2D5',
         200: '#888883',
       }
+    },
+    fontSize: {
+      xs: "12px", //12px
+      sm: "14px", //14px
+      base: "16px", //16px
+      md: "18px", //18px
+      lg: "20px", //20px
+      xl: "22px", //22px
+      "2xl": "24px", //24px
+      "3xl": "28px", //28px
+      "4xl": "32px", //32px
+      "5xl": "36px", //36px
+      //Wide extra
+      "6xl": "44px", //44px
+      "7xl": "48px" //48px
     }
   },
   plugins: [],
